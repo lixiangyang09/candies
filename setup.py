@@ -24,6 +24,6 @@ setup(
         packages=['candies'],                 # 包
         install_requires=requirements,
         zip_safe=False,
-        package_data={'candies': ['data/test']},
+        package_data={'candies': ['data/test_data']},
 )
 

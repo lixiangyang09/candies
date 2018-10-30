@@ -18,6 +18,6 @@ This project contains some futile function of python.
 ### install
     pip install candies-1.0.tar.gz
 
-    pip install git+git://github.com/lixiangyang09/candies.git
+    pip install git+git://github.com/lixiangyang09/candies.git@master#egg=candies
     or
-    pip install git+https://github.com/lixiangyang09/candies.git
+    pip install git+https://github.com/lixiangyang09/candies.git@master#egg=candies
